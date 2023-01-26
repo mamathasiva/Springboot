@@ -24,7 +24,7 @@ public class ProductController {
 	{
 		
 		List<Product> lproducts= productService.getProducts();
-	
+	//change
 		return lproducts;
 	}
 
